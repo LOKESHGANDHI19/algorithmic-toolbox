@@ -83,5 +83,4 @@ This course is part of a larger _Data Structures and Algorithms_ specialization.
 - [Partitioning Souvenirs](python/week-6/partition_souvegnirs.py)
 - [Maximum Value of an Arithmetic Expression](python/week-6/max_value_arithmetic_expression.py)
 
-## [Certificate](http://coursera.org/verify/UWWDZKHQA86D)
-![Certificate](certificate.PNG)
+
